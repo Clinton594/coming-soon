@@ -12917,4 +12917,5 @@ body.is-mobile.merge-true .overlay .container-mid {
   margin-bottom: 30px;
   border-radius: 6px;
   width: 70%;
+  max-width: 200px;
 }
