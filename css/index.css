@@ -12342,8 +12342,8 @@ body.is-mobile.merge-true .overlay .container-mid {
   text-align: center;
   color: #fff;
 }
-.hero-1 .front-content h1 span {
-  color: #1fb8b2;
+.hero-1 .front-content h1 span, .orange {
+  color: #ff9800;
 }
 .hero-1 .front-content p {
   font-family: Raleway, sans-serif;
@@ -12912,4 +12912,9 @@ body.is-mobile.merge-true .overlay .container-mid {
 
 .go-up-button.go-up.active {
   top: 40px;
+}
+.mb-2 {
+  margin-bottom: 30px;
+  border-radius: 6px;
+  width: 70%;
 }
